@@ -1,0 +1,64 @@
+1.original:{
+city:albany ,
+state:NY
+}
+copy:{
+city:albany ,
+state:NY
+}
+shallow copy is done here so it prints the updated value of city
+
+
+2.undefined 
+hoisting in js
+
+3.10
+the value of number is replaced to 1o and saved in result
+
+
+4.b false a true
+a is not defined
+
+5.012345678
+setInterval will print values every 200millisec 
+
+
+6.hello 
+x is true in while loop so it will print hello
+
+7.b true a false
+ a is not defined 
+
+8.outer func:  this.foo = bar
+outer func:  self.foo = bar
+Inner func:this.foo=undefined
+Inner func:self.foo=bar 
+inner function this does not refer to current object so it is undefined
+
+9.bar:hello
+bar:hello
+return same as both function return same values 
+
+
+10.1432 because set timeout is given as 1000 and 0 in line 2 and 3
+
+11.button 0-4
+loop runs from 0-4 it create 5 buttons
+and wen we click on button it prints 5 as i value is 5
+
+12.zebra:undefined,horse:undefined
+values of object.key is set undefined
+
+13.1
+closure-outer function scope value is 1
+
+14.1 
+undefined 
+2
+var  x=1 hoisted
+x is inside the scope it will be undefined 
+y =2 it is also hoisted
+
+
+
+
